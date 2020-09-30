@@ -32,7 +32,11 @@ ol,
 ul {
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
   font-family: 'Roboto', sans-serif;
+=======
+  font-family: "Roboto", sans-serif;
+>>>>>>> 1eafa1b67255fd9931cfd9be34ce1139e9cc0a31
 }
 
 ol,
@@ -278,7 +282,11 @@ a {
 }
 
 .about-page-hero-section {
+<<<<<<< HEAD
   background-image: url('https://images.unsplash.com/photo-1569760142069-bc6838de16c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
+=======
+  background-image: url("https://images.unsplash.com/photo-1569760142069-bc6838de16c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+>>>>>>> 1eafa1b67255fd9931cfd9be34ce1139e9cc0a31
   background-color: rgba(0, 0, 0, 0.7);
   /* background-color: red; */
   background-blend-mode: multiply;
